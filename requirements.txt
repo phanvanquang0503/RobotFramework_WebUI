@@ -1,0 +1,8 @@
+# This file contains all the necessary dependencies for Robot_webui
+
+PyYAML==5.1.2
+robotframework
+robotframework-seleniumlibrary
+webdrivermanager
+robotframework-lint==1.1
+python-dateutil==2.8.1
