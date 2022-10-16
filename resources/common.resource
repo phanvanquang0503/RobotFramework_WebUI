@@ -1,5 +1,6 @@
 *** Settings ***
-Resource  ${EXECDIR}/keywords/init.resource
+Resource  ${EXECDIR}/resources/init.resource
+
 *** Variables ***
 ${Browser}  Chrome
 
@@ -23,3 +24,6 @@ Click New Items
     Sleep  3s
     Click Element  ${item}
     Sleep  5s
+
+Clear Data On Input Search
+    Clear Element Text  ${inputSearch}

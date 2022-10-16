@@ -1,0 +1,37 @@
+Item:
+  HeaderItem:
+    title: Title
+    language: Language
+    viewComments: View comments
+    startDate: Start date
+    endDate: End date
+    published: Published
+    createdOn: Created on
+    edit: Edit
+  Item_1:
+    title: New online store is open!
+    language: English
+    viewComments:
+    startDate:
+    endDate:
+    published:
+    createdOn: 03/13/2017 4:20:10 AM
+  Item_2:
+    title: nopCommerce new release!
+    language: English
+    viewComments:
+    startDate:
+    endDate:
+    published:
+    createdOn: 03/13/2017 4:20:09 AM
+  Item_3:
+    title: New online store is open!
+    language: English
+    viewComments:
+    startDate:
+    endDate:
+    published:
+    createdOn: 03/13/2017 4:20:08 AM
+  ContentData:
+    specialSearch: ''''''
+    noData: No data available in table
